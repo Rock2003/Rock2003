@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">بسم الله الرحمن الرحيم</h1>
+<!-- <h1 align="center">بسم الله الرحمن الرحيم</h1> -->
 
 ### Hello World! I'm Youssef!
 #### BS/MS CSE Student at UW | Aspiring Software Engineer | Aspring Ubiquitous Computing and ML Researcher
 <hr>
 
 <span>
-<a href="https://www.linkedin.com/in/youssef-ben/" target="_blank" style="margin:5px">
+<a href="https://www.linkedin.com/in/youssef-ben/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="icon of Linkedin" width="20px" />
    Let's connect!       
   </a>
