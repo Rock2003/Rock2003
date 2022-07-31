@@ -21,12 +21,11 @@ Here are some ideas to get you started:
 <hr>
 
 <span>
-<a href="https://www.linkedin.com/in/youssef-ben/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="icon of Linkedin" width="20px" />
-   Let's connect!       
-  </a>
+<a href="https://www.linkedin.com/in/youssef-ben/" target="Contact me" style="margin:5px">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="icon of Linkedin" width="30px" />
+   </a>
   <br>
-  <br>
+
   
 
 </span>
