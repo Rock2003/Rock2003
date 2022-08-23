@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- <h1 align="center">بسم الله الرحمن الرحيم</h1> -->
+<h1 align="center">بسم الله الرحمن الرحيم</h1>
 
 ### Hello World! I'm Youssef!
 #### BS/MS CSE Student at UW | Aspiring Software Engineer | Aspring Ubiquitous Computing and ML Researcher
