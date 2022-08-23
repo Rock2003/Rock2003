@@ -14,21 +14,27 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">بسم الله الرحمن الرحيم</h1>
+<!-- <h1 align="center">بسم الله الرحمن الرحيم</h1> -->
 
 ### Hello World! I'm Youssef!
 #### BS/MS CSE Student at UW | Aspiring Software Engineer | Aspring Ubiquitous Computing and ML Researcher
+
+<br>
+
+<div align="center" href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rock2003&show_icons=true&include_all_commits=true&theme=tokyonight" alt="My github stats" />
+</div>  
+<br>
 <hr>
 
 <span>
 <a href="https://www.linkedin.com/in/youssef-ben/" target="Contact me" style="margin:5px">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="icon of Linkedin" width="30px" />
    </a>
-  <br>
+   
+<br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rock2003&show_icons=true&include_all_commits=true&theme=tokyonight" alt="My github stats" />
-</a>  
+
   
 
 </span>
