@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 </div>  
 
 
-<div align="center">
+<!-- <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rock2003&show_icons=true&include_all_commits=true&theme=tokyonight" alt="My github stats" />
-</div>  
+</div>   -->
 <br>
 <hr>
 
