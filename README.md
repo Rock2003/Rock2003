@@ -20,17 +20,19 @@ Here are some ideas to get you started:
 #### BS/MS CSE Student at UW | Aspiring Software Engineer | Aspring Ubiquitous Computing and ML Researcher
 <hr>
 
-
-
 <span>
 <a href="https://www.linkedin.com/in/youssef-ben/" target="Contact me" style="margin:5px">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="icon of Linkedin" width="30px" />
    </a>
   <br>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rock2003&show_icons=true&include_all_commits=true&theme=tokyonight" alt="My github stats" />
+</a>  
   
 
 </span>
+
 #### I am currently:
 - 💻 Software Engineering Intern at Aserto and Research Asistant at Ubicomp! Ex-President of the BC Tech Club, and Ex-Microsoft Student Ambassador
 - 👩🏽‍🏫 Founder and Ex-President of the BC Tech Club
@@ -53,8 +55,6 @@ Here are some ideas to get you started:
 
 #### I have experience with:
 ##### Languages
-
-
 <span>
     <!-- Go -->
   <a href="https://go.dev/">
