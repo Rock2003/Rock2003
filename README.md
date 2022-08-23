@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ### Hello World! I'm Youssef!
 #### BS/MS CSE Student at UW | Aspiring Software Engineer | Aspring Ubiquitous Computing and ML Researcher
 <hr>
+[![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rock2003)](https://github.com/anuraghazra/github-readme-stats)
 
 <span>
 <a href="https://www.linkedin.com/in/youssef-ben/" target="Contact me" style="margin:5px">
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
   
 
 </span>
-
 #### I am currently:
 - 💻 Software Engineering Intern at Aserto and Research Asistant at Ubicomp! Ex-President of the BC Tech Club, and Ex-Microsoft Student Ambassador
 - 👩🏽‍🏫 Founder and Ex-President of the BC Tech Club
@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 
 #### I have experience with:
 ##### Languages
+
+
 <span>
     <!-- Go -->
   <a href="https://go.dev/">
