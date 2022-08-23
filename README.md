@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 ### Hello World! I'm Youssef!
 #### BS/MS CSE Student at UW | Aspiring Software Engineer | Aspring Ubiquitous Computing and ML Researcher
 <hr>
-[![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rock2003)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <span>
 <a href="https://www.linkedin.com/in/youssef-ben/" target="Contact me" style="margin:5px">
