@@ -21,7 +21,13 @@ Here are some ideas to get you started:
 
 <br>
 
-<div align="center" href="https://github.com/anuraghazra/github-readme-stats">
+<div align="center">
+  <img align="center" src="https://raw.githubusercontent.com/Rock2003/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="My github stats" />
+  <img align="center" src="https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="My github languages" />
+</div>  
+
+
+<div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rock2003&show_icons=true&include_all_commits=true&theme=tokyonight" alt="My github stats" />
 </div>  
 <br>
