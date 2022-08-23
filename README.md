@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img align="center" src="https://raw.githubusercontent.com/Rock2003/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="My github stats" />
-  <img align="center" src="https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="My github languages" />
+  <img align="center" src="https://raw.githubusercontent.com/Rock2003/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="My github languages" />
 </div>  
 
 
