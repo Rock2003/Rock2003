@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">بسم الله الرحمن الرحيم</h1>
 
 ### Hello World! I'm Youssef!
-#### BS/MS CSE Student at UW | Aspiring Software Engineer | Aspring Ubiquitous Computing and ML Researcher
+#### BS/MS CSE Student at UW | Aspiring Software Engineer | Ubiquitous Computing and ML Researcher
 
 <br>
 
@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 </span>
 
 #### I am currently:
-- 💻 Software Engineering Intern at Aserto and Research Asistant at Ubicomp! Ex-President of the BC Tech Club, and Ex-Microsoft Student Ambassador
-- 👩🏽‍🏫 Founder and Ex-President of the BC Tech Club
+- 💻 Software Engineering Intern at Aserto and a Machine Learning Research Asistant at Ubicomp! Ex-President of the BC Tech Club, and Ex-Microsoft Student Ambassador
+- 👨🏼‍💼 Founder and Ex-President of the BC Tech Club
 - 🎓 B.S. and M.S. in Computer Science and Engineering at University of Washington - Paul G. Allen School of CSE (Expected June 2024)  
 - 📍 Located in Seattle, WA  
 
